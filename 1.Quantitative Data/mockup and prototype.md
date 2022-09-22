@@ -4,11 +4,10 @@
 ## Dataset
 I filltered by only PRIV_HH in activity column, which indicates private household.
 
-<img width="659" alt="Screen Shot 2022-09-21 at 9 59 17 PM" src="https://user-images.githubusercontent.com/86972559/191642110-a5b2096b-4b3c-4fbc-ba98-83cff5d0a49c.png"> 
-original dataset
+<img width="659" alt="Screen Shot 2022-09-21 at 9 59 17 PM" src="https://user-images.githubusercontent.com/86972559/191642110-a5b2096b-4b3c-4fbc-ba98-83cff5d0a49c.png">  <br> original dataset  <br>
 
-<img width="861" alt="Screen Shot 2022-09-21 at 10 01 21 PM" src="https://user-images.githubusercontent.com/86972559/191642145-5faa8f7f-7a8f-496b-9973-35ed191fde6e.png"> 
-filtered dataset
+ <br>  <br>
+<img width="861" alt="Screen Shot 2022-09-21 at 10 01 21 PM" src="https://user-images.githubusercontent.com/86972559/191642145-5faa8f7f-7a8f-496b-9973-35ed191fde6e.png">  <br> filtered dataset <br>
 
 
 
