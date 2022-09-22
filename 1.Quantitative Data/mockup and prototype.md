@@ -3,6 +3,7 @@
 
 ## Dataset
 I filltered by only PRIV_HH in activity column, which indicates private household.
+
 <img width="659" alt="Screen Shot 2022-09-21 at 9 59 17 PM" src="https://user-images.githubusercontent.com/86972559/191642110-a5b2096b-4b3c-4fbc-ba98-83cff5d0a49c.png"> 
 original dataset
 
