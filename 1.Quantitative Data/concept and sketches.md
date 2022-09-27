@@ -12,8 +12,8 @@ When I found the dataset of "Total wastewater generated", I was curious about ho
 
 <img width="606" alt="sketch1" src="https://user-images.githubusercontent.com/86972559/191416813-90e9ebe3-d354-4d82-99f5-8a6a15cb6e91.png">
 
-## Gap of accessibility for using safely managed drinking water services between rural and urban
+## Gap of accessibility for using safely managed drinking water services between rural and urban areas
 
-In various areas, the gap between rural and urban is recognized. The dataset is also showing the gap of using safely managed drinking water services between rural and urban. But then, how could we visualize the data to show the gap to the public? I came up with the line chart to compare rural and urban areas of each country and has it been widening or narrowing? 
+In various fields, the gap between rural and urban areas is recognized. This dataset shows the gap of using safely managed drinking water services in rural areas compared to urban areas. But then, how could we visualize the data to show the gap to the public? I came up with the line chart to compare rural and urban areas of each country and whether the gap has been widening or narrowing. 
 
 <img width="613" alt="sketch3" src="https://user-images.githubusercontent.com/86972559/191589552-01d9acac-1127-44c8-9117-a4fcad4e5026.png">
