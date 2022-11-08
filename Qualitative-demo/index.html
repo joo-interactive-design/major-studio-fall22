@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./style.css">
+    <!-- d3 -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <!-- rita.js -->
+    <script src="library/rita-full.js"></script>
+    <!-- css -->
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+
+
+<body>
+    <div class="wrapper">
+        <section class="title">
+            <div class="title-container">
+                <p class="green bold">2021 TOPICS</p>
+                <p class="yellow bold">THE PANDEMIC LINGERS</p>
+                <p class="red bold">DIGITAL DOMINATES THE GROWTH AGENDA</p>
+                <p class="purple bold">SUSTAINABILITY GAINS STEAM</p>
+                <p class="blue bold">WORLD ELECTIONS</p>
+            </div>
+            <div class="legend-container">
+                <div class="squares">
+                    <span class="bg-green"></span>
+                    <span class="bg-yellow"></span>
+                    <span class="bg-red"></span>
+                    <span class="bg-purple"></span>
+                    <span class="bg-blue"></span>
+                </div>
+                <div class="metadata">
+                    <div class="pandemic">
+                        <div class="index">Pandemic</div>
+                        <div>Covid-19</div>
+                        <div>Restriction</div>
+                        <div>Uncertainty</div>
+                        <div>Vaccine</div>
+                        <div>Immunity</div>
+                        <div>Disease</div>
+                        <div>Illness</div>
+                        <div>Death</div>
+                        <div>Rish</div>
+                        <div>Slow</div>
+                    </div>
+                    <div class="talent">
+                        <div class="index">Talent</div>
+                        <div>Employer</div>
+                        <div>Work(er)</div>
+                        <div>Resignation</div>
+                        <div>Employee</div>
+                        <div>Well-being</div>
+                        <div>Office</div>
+                        <div>Tallent Issue</div>
+                        <div>Hire</div>
+                        <div>Staff</div>
+                    </div>
+                    <div class="technology">
+                        <div class="index">Technology</div>
+                        <div>Digital</div>
+                        <div>Online</div>
+                        <div>Accelerate</div>
+                        <div>Technology</div>
+                        <div>Innovation</div>
+                        <div>Transformation</div>
+                        <div>Remote</div>
+                        <div>Face-to-face</div>
+                        <div>Virtual</div>
+                        <div>Hybrid</div>
+                    </div>
+                    <div class="sustainability">
+                        <div class="index">Sustainability</div>
+                        <div>Wildfire</div>
+                        <div>Ice storm</div>
+                        <div>Flood</div>
+                        <div>Climate</div>
+                        <div>Global</div>
+                        <div>Temperature</div>
+                        <div>Development goal</div>
+                        <div>Energy</div>
+                    </div>
+                    <div class="government">
+                        <div class="index">Government</div>
+                        <div>Politics</div>
+                        <div>Elections</div>
+                        <div>Policy</div>
+                        <div>Economy</div>
+                    </div>
+                </div>
+        </section>
+        <div class="multiples">
+            <section class="chart">
+                <div class="bars-container">
+                    <div class="country-container">
+                        <div class="country-name">Alabania</div>
+                        <div class="country-bar"></div>
+                    </div>
+                </div>
+            </section>
+            <div class="paragraph-wrapper">
+                <div class="paragraph-container none" data-index='0'>
+                    <!-- <img src="./images/icon-close.svg" alt="" class="close"> -->
+                    <div class="paragraph-title">
+                        <div class="country">Albania</div>
+                        <div class="paragraph-bar"></div>
+                    </div>
+                    <div id="paragraph-0"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <script src="./viz.js"></script>
+    <script src="./rita.js"></script>
+    <!-- <script src="./app.js"></script> -->
+</body>
+
+</html>
